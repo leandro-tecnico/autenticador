@@ -1,4 +1,4 @@
-import {usuarios} from "./db.js";
+import {usuarios} from "./db.mjs";
 
 export default class Usuarios{
 

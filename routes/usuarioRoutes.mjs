@@ -1,6 +1,6 @@
 import Express from "express";
 
-import usuariosController from "../controllers/UsuariosController.js"
+import usuariosController from "../controllers/UsuariosController.mjs"
 
 const router = Express.Router();
 

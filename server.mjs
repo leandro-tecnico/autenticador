@@ -1,6 +1,6 @@
 import Express from "express";
 import cors from "cors";
-import usuarioRoutes from "./routes/usuarioRoutes.js";
+import usuarioRoutes from "./routes/usuarioRoutes.mjs";
 
 export default class Server {
 
